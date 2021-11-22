@@ -25,3 +25,15 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
 JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
 1637320008909	Marionette	INFO	Stopped listening on port 55856
+1637573086724	geckodriver	INFO	Listening on 127.0.0.1:54440
+1637573087314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofile8U5S9v"
+1637573087721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofile8U5S9v\\search.json.mozlz4", (void 0)))
+1637573090073	Marionette	INFO	Listening on port 54454
+1637573090519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1637573093070	Marionette	INFO	Stopped listening on port 54454
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
