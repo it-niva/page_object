@@ -88,3 +88,43 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
 JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
 1637828170566	Marionette	INFO	Stopped listening on port 52760
+1637828502689	geckodriver	INFO	Listening on 127.0.0.1:49268
+1637828503245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofile0emC35"
+1637828503680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofile0emC35\\search.json.mozlz4", (void 0)))
+1637828506194	Marionette	INFO	Listening on port 49273
+1637828506446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1637828508626	Marionette	INFO	Stopped listening on port 49273
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637828656399	geckodriver	INFO	Listening on 127.0.0.1:49503
+1637828656940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofileSLIa9X"
+1637828657378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofileSLIa9X\\search.json.mozlz4", (void 0)))
+1637828659970	Marionette	INFO	Listening on port 49508
+1637828660135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1637828662234	Marionette	INFO	Stopped listening on port 49508
+1637829126042	geckodriver	INFO	Listening on 127.0.0.1:52165
+1637829126072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofiledd0nbt"
+1637829126538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofiledd0nbt\\search.json.mozlz4", (void 0)))
+1637829129133	Marionette	INFO	Listening on port 52170
+1637829129291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1637829131961	Marionette	INFO	Stopped listening on port 52170
+1637829580415	geckodriver	INFO	Listening on 127.0.0.1:56036
+1637829580444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofileuPMH3H"
+1637829580914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nikitin\\AppData\\Local\\Temp\\rust_mozprofileuPMH3H\\search.json.mozlz4", (void 0)))
+1637829583648	Marionette	INFO	Listening on port 56041
+1637829583698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1637829585942	Marionette	INFO	Stopped listening on port 56041
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\Nikitin\AppData\Local\Temp\rust_mozprofileuPMH3H\sessionCheckpoints.json.tmp) to destination(C:\Users\Nikitin\AppData\Local\Temp\rust_mozprofileuPMH3H\sessionCheckpoints.json)
